@@ -1,3 +1,7 @@
+# Credits
+
+Original source: [github.com/ianneub/php_backup_s3/tree](http://github.com/ianneub/php_backup_s3/tree)
+
 # phpBackupS3
 
 This program will backup file paths and [MySQL](http://www.mysql.com) databases to [Amazon's S3](http://www.amazonaws.com/) storage cloud service.
